@@ -1,0 +1,30 @@
+# Compiled output
+build/
+
+# Gradle files
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# IDE files
+.idea/
+*.iml
+.deveco/
+
+# Local configuration
+local.properties
+
+# macOS specific
+.DS_Store
+
+# Node modules for ArkUI
+node_modules/
+
+# Hvigor wrapper
+hvigorw
+hvigorw.bat
+.hvigor/
+
+# Log files
+*.log
